@@ -10,6 +10,7 @@ Este bot está diseñado para publicar mensajes en un canal de Discord específi
 REQ:
 
  discord 1.7.3
+ 
  os
 
 
